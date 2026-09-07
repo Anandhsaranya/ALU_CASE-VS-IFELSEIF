@@ -310,6 +310,7 @@ Synthesis requires three files as follows,
 ##### Performing Synthesis
 
 ##### Synthesize Design
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/f0013d13-9147-4255-8b83-e1ce75008a27" />
 
 Run the synthesis Process one time for each code and make sure the output File names are changed accordingly
 
@@ -322,10 +323,13 @@ The Liberty files are present in the library path,
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist. Or use source run.tcl command in the terminal window to view the netlist, and a log file will be created in the working folder.
 
 #### Fig 8: Synthesis RTL Schematic using case and ifelseif construct
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/5f7d6fd5-4080-43e4-9c63-1dc2c7822349" />
 
 #### Fig 9: Area report of case and ifelseif construct
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/c4741247-4933-41ec-89b0-e964b9c812cf" />
 
 #### Fig 10: Power Report of case and ifelseif construct
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/8ac0cfac-aee6-4277-b554-6161f53432f1" />
 
 #### Fig 11: Timing Report of case and ifelseif construct
 
