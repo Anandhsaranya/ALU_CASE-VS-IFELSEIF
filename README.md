@@ -256,6 +256,7 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 
 #### Fig 4: Compiled database in WorkLib
 After compilation, it will come under worklib. You can see on the right side window
+<img width="915" height="665" alt="WhatsApp Image 2026-09-22 at 8 54 12 AM" src="https://github.com/user-attachments/assets/16a319d4-4d78-4ba4-807d-c354d8de681f" />
 
 select the test bench and compile it. It will come under Worklib. Under Worklib, you can see the module and test bench.
 
@@ -330,10 +331,13 @@ The Liberty files are present in the library path,
 
 #### Fig 10: Power Report of case and ifelseif construct
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/8ac0cfac-aee6-4277-b554-6161f53432f1" />
+<img width="2496" height="848" alt="image" src="https://github.com/user-attachments/assets/af00112b-2513-4502-b4a2-fb7d86e92fad" />
 
 #### Fig 11: Timing Report of case and ifelseif construct
+<img width="2080" height="1136" alt="image" src="https://github.com/user-attachments/assets/79124aa2-3c14-4887-be7e-304b0bfe5a97" />
 
 #### Fig 12: Tabulate Area,Power and Timing Report Comparision of ALU using case and ifelseif construct
+<img width="1344" height="744" alt="WhatsApp Image 2026-09-22 at 8 42 24 AM" src="https://github.com/user-attachments/assets/89d478c1-e9ef-402b-80ba-f3291f697f5c" />
 
 ## Result
 The 32-bit ALU implemented using behavioural case statements and if–elseif constructs was successfully verified under Incisive (ncvlog/ncsim) for all tested vectors. Both implementations were functionally correct and synthesizable. Synthesis using Cadence Genus generated gate-level netlists along with area, timing, and power reports.
