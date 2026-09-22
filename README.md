@@ -312,7 +312,7 @@ Synthesis requires three files as follows,
 
 ##### Synthesize Design
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/f0013d13-9147-4255-8b83-e1ce75008a27" />
-
+<img width="2496" height="848" alt="image" src="https://github.com/user-attachments/assets/af00112b-2513-4502-b4a2-fb7d86e92fad" />
 Run the synthesis Process one time for each code and make sure the output File names are changed accordingly
 
 The Liberty files are present in the library path,
@@ -331,7 +331,6 @@ The Liberty files are present in the library path,
 
 #### Fig 10: Power Report of case and ifelseif construct
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/8ac0cfac-aee6-4277-b554-6161f53432f1" />
-<img width="2496" height="848" alt="image" src="https://github.com/user-attachments/assets/af00112b-2513-4502-b4a2-fb7d86e92fad" />
 
 #### Fig 11: Timing Report of case and ifelseif construct
 <img width="2080" height="1136" alt="image" src="https://github.com/user-attachments/assets/79124aa2-3c14-4887-be7e-304b0bfe5a97" />
